@@ -211,7 +211,7 @@ img{
   .sobre-tech{
     margin-top: 0;
     background-image: linear-gradient(to left, transparent 50%, var(--primario) 0%), url(./assets/imagen-mujer.webp);
-    background-size: 100%, 140rem;
+    background-size: 120%, 140rem;
   background-position: right  ;
 
   }
